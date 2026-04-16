@@ -2,7 +2,6 @@ package main;
 
 import javax.swing.JOptionPane;
 
-// Agrega estas tres líneas:
 import modelo.Cliente;
 import modelo.Computadora;
 import modelo.SesionJuego;
